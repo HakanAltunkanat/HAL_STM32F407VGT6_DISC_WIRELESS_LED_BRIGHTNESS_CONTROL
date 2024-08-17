@@ -1,0 +1,10 @@
+../Core/Src/main.c:74:6:oled_config	2
+../Core/Src/main.c:95:10:pulse_converter	10
+../Core/Src/main.c:121:6:led_brightness	1
+../Core/Src/main.c:136:5:main	1
+../Core/Src/main.c:207:6:SystemClock_Config	3
+../Core/Src/main.c:253:13:MX_I2C1_Init	2
+../Core/Src/main.c:287:13:MX_TIM4_Init	9
+../Core/Src/main.c:358:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:391:13:MX_GPIO_Init	1
+../Core/Src/main.c:414:6:Error_Handler	1
